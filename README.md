@@ -7,9 +7,9 @@ Algumas informações sobre as aulas esse semestre:
 ## Divisão das Notas 
 Em todas as disciplinas as notas serão divididas assim:
 
-. Prova 1: 15 pontos
-. Prova 2: 15 pontos
-. Trabalhos: 30 pontos
-. Prova Semestral: 40 pontos
-. **Total: ** 100 pontos
+- Prova 1: 15 pontos
+- Prova 2: 15 pontos
+- Trabalhos: 30 pontos
+- Prova Semestral: 40 pontos
+- **Total: ** 100 pontos
 
