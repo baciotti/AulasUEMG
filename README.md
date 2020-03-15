@@ -67,12 +67,16 @@ As atividades de cada disciplina deverão ser entregues na data apontada. Ativid
 | Disciplina | Nome da Atividade | Data para entrega | Observação|
 |:----:|:----:|:--------:| --------|
 | Tópicos Avançados em Banco de Dados | Lista 2 | 24/março/2020 | Disponível na pasta da disciplina aqui no github |
-| Tópicos Avançados em Banco de Dados | Lista 3* | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
-| Tópicos Avançados em Banco de Dados | Lista 4* | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
-| Tópicos Avançados em Banco de Dados | Lista 5* | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 3 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 4 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 5 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
 | Tópicos Avançados em Banco de Dados | Lista 6B | 07/abril/2020 | Disponível na pasta da disciplina aqui no github. A lista 6 não precisa ser entregue, somente a lista 6B |
 
-*Observação: Mesmo as atividades que tem a mesma data de entrega deverão ser enviadas separamente, um envio no formulário para cada atividade.
+### Observações sobre as atividades:
+
+. Mesmo as atividades que tem a mesma data de entrega deverão ser enviadas separamente, um envio no formulário para cada atividade
+. As atividades de Banco de Dados não necessitam do envio do banco, somente os comandos utilizados emum arquivo .doc ou .pdf. 
+
 
 
 <br><br><br><br>
