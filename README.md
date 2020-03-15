@@ -11,5 +11,5 @@ Em todas as disciplinas as notas serão divididas assim:
 - Prova 2: 15 pontos
 - Trabalhos: 30 pontos
 - Prova Semestral: 40 pontos
-- **Total: ** 100 pontos
+- **Total:** 100 pontos
 
