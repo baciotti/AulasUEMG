@@ -81,7 +81,10 @@ As atividades de cada disciplina deverão ser entregues na data apontada. Ativid
 
 
 
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
 ## Agradecimentos
 Meus agradecimentos aos professores **Fernando Masanori Ashikaga** (https://github.com/fmasanori) e **Diego Silveira Costa Nascimento** (https://github.com/diegosilveiracn) pela ajuda com materiais e sugestões para as aulas de Python :)
