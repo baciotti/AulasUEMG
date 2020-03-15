@@ -67,15 +67,18 @@ As atividades de cada disciplina deverão ser entregues na data apontada. Ativid
 | Disciplina | Nome da Atividade | Data para entrega | Observação|
 |:----:|:----:|:--------:| --------|
 | Tópicos Avançados em Banco de Dados | Lista 2 | 24/março/2020 | Disponível na pasta da disciplina aqui no github |
-| Tópicos Avançados em Banco de Dados | Lista 3 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
-| Tópicos Avançados em Banco de Dados | Lista 4 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
-| Tópicos Avançados em Banco de Dados | Lista 5 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 3* | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 4* | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 5* | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 6B | 07/abril/2020 | Disponível na pasta da disciplina aqui no github. A lista 6 não precisa ser entregue, somente a lista 6B |
+
+*Observação: Mesmo as atividades que tem a mesma data de entrega deverão ser enviadas separamente, um envio no formulário para cada atividade.
 
 
-
+<br><br><br><br>
 
 ## Agradecimentos
-Meus agradecimentos aos professores **Fernando Masanori Ashikaga** (https://github.com/fmasanori) e **Diego Silveira Costa Nascimento** (https://github.com/diegosilveiracn) pela ajuda com materiais e sugestões :)
+Meus agradecimentos aos professores **Fernando Masanori Ashikaga** (https://github.com/fmasanori) e **Diego Silveira Costa Nascimento** (https://github.com/diegosilveiracn) pela ajuda com materiais e sugestões para as aulas de Python :)
 
 
 
