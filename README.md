@@ -74,8 +74,10 @@ As atividades de cada disciplina deverão ser entregues na data apontada. Ativid
 
 ### Observações sobre as atividades:
 
-. Mesmo as atividades que tem a mesma data de entrega deverão ser enviadas separamente, um envio no formulário para cada atividade
-. As atividades de Banco de Dados não necessitam do envio do banco, somente os comandos utilizados emum arquivo .doc ou .pdf. 
+- Mesmo as atividades que tem a mesma data de entrega deverão ser enviadas separamente, um envio no formulário para cada atividade
+- As atividades de Banco de Dados não necessitam do envio do banco, somente os comandos utilizados emum arquivo .doc ou .pdf. 
+- Mesmo as atividades realizadas em grupo deverão ser entregues individualmente. Cada aluno faz seu próprio envio.
+- Fiquem atentos às regras de nomenclatura dos arquivos
 
 
 
