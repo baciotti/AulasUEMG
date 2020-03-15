@@ -49,6 +49,8 @@ As respostas de cada lista de exercícios estão dentro do Repl.it no meu perfil
 
 Link do meu perfil dentro do Repl.it: https://repl.it/@baciotti
 
+## Agradecimentos
+Meus agradecimentos aos professores Fernando Masanori Ashikaga (https://github.com/fmasanori) e Diego Silveira Costa Nascimento (https://github.com/diegosilveiracn) pela ajuda com materiais e sugestões :)
 
 
 
