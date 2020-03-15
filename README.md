@@ -61,6 +61,19 @@ Link do meu perfil dentro do Repl.it: https://repl.it/@baciotti
 <br>
 <br><br>
 
+## Atividades que precisam ser entregues
+As atividades de cada disciplina deverão ser entregues na data apontada. Atividades entregues fora do prazo valerão 60% da nota.
+
+| Disciplina | Nome da Atividade | Data para entrega | Observação|
+|:----:|:----:|:--------:| --------|
+| Tópicos Avançados em Banco de Dados | Lista 2 | 24/março/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 3 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 4 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+| Tópicos Avançados em Banco de Dados | Lista 5 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
+
+
+
+
 ## Agradecimentos
 Meus agradecimentos aos professores **Fernando Masanori Ashikaga** (https://github.com/fmasanori) e **Diego Silveira Costa Nascimento** (https://github.com/diegosilveiracn) pela ajuda com materiais e sugestões :)
 
