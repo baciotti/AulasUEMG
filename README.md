@@ -72,6 +72,7 @@ As atividades de cada disciplina deverão ser entregues na data apontada. Ativid
 | Tópicos Avançados em Banco de Dados | Lista 5 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
 | Tópicos Avançados em Banco de Dados | Lista 6B | 21/abril/2020 | Disponível na pasta da disciplina aqui no github. A lista 6 não precisa ser entregue, somente a lista 6B |
 | Gestão de TI | Atividade 1 - Planejamento Estratégico | 24/março/2020 | Disponível na pasta da disciplina aqui no github.  |
+| Gestão de TI | Atividade 3 - Governança | 31/março/2020 | Disponível na pasta da disciplina aqui no github.  |
 
 
 ### Observações sobre as atividades:
