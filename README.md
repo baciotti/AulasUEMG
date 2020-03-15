@@ -4,6 +4,7 @@ Nesse repositório vou adicionar todo o material utilizado nas aulas do curso de
 
 Algumas informações sobre as aulas esse semestre:
 
+
 ## Divisão das Notas 
 Em todas as disciplinas as notas serão divididas assim:
 
@@ -13,6 +14,7 @@ Em todas as disciplinas as notas serão divididas assim:
 - Prova Semestral: 40 pontos
 - **Total: 100 pontos**
 
+
 ## Datas das provas
 As provas das 3 disciplinas serão aplicadas nos mesmos dias, sempre às terças-feiras. Embora não tenhamos aula de TABD às terças a prova será aplicada juntamente com a prova de Gestão de TI.
 
@@ -20,17 +22,21 @@ As provas das 3 disciplinas serão aplicadas nos mesmos dias, sempre às terças
 - Prova 2: 07/Abril/2020
 - Prova Semestral: 30/junho/2020
 
+
 ## Trabalhos e Listas de Exercícios
 Em nossas aulas faremos várias listas de exercícios práticos nas disciplinas de TABD e POO2. A disciplina de GTI terá também várias atividades práticas divididas entre estudos de casos, pesquisas e questionários.
 
 Algumas dessas atividades serão apenas laboratórios para serem feitos em sala de aula e outros serão entregues.
 
-## Como entregar as atividades?
+
+## Atividades
+
+### Como entregar as atividades?
 Eu não recebo nenhuma atividade por email ou impressa, salvo aviso ao contrário. Todas as atividades deverão ser entregues através do seguinte link do Google Docs:
 
 http://www.bit.ly/entrega2020
 
-## Lista de exercícios de Programação Orientada a Objetos II
+### Lista de exercícios de Programação Orientada a Objetos II
 Na disciplina de POO2 estamos trabalhando com a linguagem Python. Com o objetivo de tornar mais fácil o trabalho trabalharemos com uma IDE online, **Repl.it**. Atenção que as listas de exercícios e as respostas ficam em lugares diferentes:
 
 ### Listas de exercícios (Sala de aula dentro do Repl.it)
