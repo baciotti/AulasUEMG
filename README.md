@@ -13,8 +13,8 @@ Em todas as disciplinas as notas serão divididas assim:
 - Trabalhos: 30 pontos
 - Prova Semestral: 40 pontos
 - **Total: 100 pontos**
-
-
+\
+\
 ## Datas das provas
 As provas das 3 disciplinas serão aplicadas nos mesmos dias, sempre às terças-feiras. Embora não tenhamos aula de TABD às terças a prova será aplicada juntamente com a prova de Gestão de TI.
 
