@@ -70,7 +70,7 @@ As atividades de cada disciplina deverão ser entregues na data apontada. Ativid
 | Tópicos Avançados em Banco de Dados | Lista 3 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
 | Tópicos Avançados em Banco de Dados | Lista 4 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
 | Tópicos Avançados em Banco de Dados | Lista 5 | 07/abril/2020 | Disponível na pasta da disciplina aqui no github |
-| Tópicos Avançados em Banco de Dados | Lista 6B | 07/abril/2020 | Disponível na pasta da disciplina aqui no github. A lista 6 não precisa ser entregue, somente a lista 6B |
+| Tópicos Avançados em Banco de Dados | Lista 6B | 21/abril/2020 | Disponível na pasta da disciplina aqui no github. A lista 6 não precisa ser entregue, somente a lista 6B |
 
 ### Observações sobre as atividades:
 
